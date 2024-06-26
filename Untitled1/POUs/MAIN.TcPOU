@@ -4,7 +4,9 @@
     <Declaration><![CDATA[PROGRAM MAIN
 VAR
 	
-bool1	:	BOOL;
+bool1		:	BOOL;
+
+deskbool	:	BOOL;
 
 END_VAR
 ]]></Declaration>

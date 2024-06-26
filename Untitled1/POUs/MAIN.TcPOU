@@ -4,11 +4,13 @@
     <Declaration><![CDATA[PROGRAM MAIN
 VAR
 	
-bool1		:	BOOL;
+bool1				:	BOOL;
 
-deskbool	:	BOOL;
+deskbool			:	BOOL;
 
-lapbool		:	BOOL;
+lapbool				:	BOOL;
+
+mainBranchLapBool2	:	BOOL;
 
 END_VAR
 ]]></Declaration>

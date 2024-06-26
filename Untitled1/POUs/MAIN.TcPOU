@@ -16,6 +16,8 @@ mainBranchLapBool3	:	BOOL;
 
 mainBranchLapBool4	:	BOOL;
 
+lapBranch2			:	BOOL;
+
 END_VAR
 ]]></Declaration>
     <Implementation>

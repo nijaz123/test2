@@ -12,6 +12,8 @@ lapbool				:	BOOL;
 
 mainBranchLapBool2	:	BOOL;
 
+mainBranchLapBool3	:	BOOL;
+
 END_VAR
 ]]></Declaration>
     <Implementation>

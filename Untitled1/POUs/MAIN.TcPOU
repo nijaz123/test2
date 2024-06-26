@@ -8,6 +8,8 @@ bool1		:	BOOL;
 
 deskbool	:	BOOL;
 
+lapbool		:	BOOL;
+
 END_VAR
 ]]></Declaration>
     <Implementation>
